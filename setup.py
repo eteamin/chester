@@ -7,7 +7,6 @@ testpkgs = [
 
 ]
 install_requires = [
-
 ]
 
 setup(
